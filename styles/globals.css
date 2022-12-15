@@ -1002,11 +1002,11 @@ margin-top: 160px;
 }
 
 .blog__container >h2 {
-  font-size: 35px;
+  font-size: 30px;
 }
 
 .blog__container >p {
-  font-size: 20px;
+  font-size: 16px;
   margin-block: 15px;
 }
 
@@ -1015,7 +1015,7 @@ input {
   padding: 15px;
   border: 2px solid black;
   border-radius: 5px;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .form__button {

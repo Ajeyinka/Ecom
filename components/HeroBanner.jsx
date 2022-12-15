@@ -1,6 +1,5 @@
 import React from 'react';
 import Link from 'next/link';
-import images from '../constants/images'
 
 import { urlFor } from '../lib/client';
 
